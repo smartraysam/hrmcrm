@@ -1,0 +1,5 @@
+Default Admin Created : superadmin@example.com / 1234
+
+Default Company Created : company@example.com / 1234
+
+Default HR Created : hr@example.com / 1234
